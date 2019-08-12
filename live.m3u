@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1, *** lista kanala ***
+pocetak
 
-#EXTINF:-1, N1 srbija
+
+#EXTINF:0, N1 srbija
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
 
 #EXTINF:0, Arena 1
